@@ -1,0 +1,58 @@
+.app {
+  background-color: #0e0e0e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+}
+
+.container {
+  background-color: #faf9fa;
+  border-radius: 3px;
+  width: 519px;
+  padding: 3rem;
+}
+.app-header {
+  font-size: 15px;
+  font-weight: 400;
+}
+.Subtitle {
+  padding-top: 5px;
+}
+.total-amount-card {
+  margin-top: 22px;
+  background-color: pink;
+}
+.total_amount_heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.total_amt_para {
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+  color: #4b4b4b;
+}
+.input_area {
+  margin-top: 30px;
+}
+.input_field {
+  margin-top: 30px;
+  width: 445px;
+}
+.button_collection {
+  margin-top: 61px;
+  margin-bottom: 1rem;
+}
+#outlined-basic {
+  width: 410px;
+}
+Button {
+  width: 600px;
+}
